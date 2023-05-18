@@ -1,0 +1,39 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+ios/Pods/
+android/.gradle/
+android/app/build/
+android/build/
+ios/Flutter/.last_build_id
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+android/gradle/
+*.iml
+/.idea/
+.DS_Store
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+
+# Build-specific files
+*.apk
+*.ap_
+*.ipa
+*.aar
+*.hprof
+*.jks
+*.pem
+*.p12
+*.cert
+*.key
